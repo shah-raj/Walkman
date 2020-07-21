@@ -1,6 +1,6 @@
 # walkman
 
-A flutter project to kee you fit.<br>
+An app designed to keep you fit.<br>
 It allows you to track the step count, distance covered and calories burnt for a day. <br>
 It also gives you statistical data comparison of all these different entitities over the past week.
 
